@@ -54,3 +54,7 @@ code {
   color: #EE6352;
   padding: 10px 15px;
 }
+
+.card-group {
+  margin: auto 52px !important;
+}
